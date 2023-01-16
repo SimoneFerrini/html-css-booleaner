@@ -91,6 +91,8 @@ table{
     background-repeat: no-repeat;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
 }
 
 #adv2{
@@ -102,7 +104,10 @@ table{
     background-repeat: no-repeat;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
 }
+
 
 .bonus{
     margin-left: 200px;
