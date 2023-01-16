@@ -33,3 +33,20 @@ h1{
 .azzurro{
     color:dodgerblue;
 }
+
+#img1{
+    width: 700px;
+    height: auto;
+    margin-top: 20px;
+}
+
+#img2{
+    margin-top: 20px;
+    width: 600px;
+    height: auto;
+}
+
+.foto{
+    color: black;
+    font-size: 15px;
+}
