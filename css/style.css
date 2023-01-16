@@ -12,6 +12,17 @@ h1{
     color: black;
 }
 
+thead{
+    background-color:cornflowerblue;
+    color: white;
+    text-align: left;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+
 #logo{
     max-width: 250px;
     height: auto;
@@ -24,7 +35,7 @@ h1{
     font-size: 15px;
 }
 
-.scritto-da{
+.grigio{
     color: gray;
     font-weight: bold;
     font-size: 20px;
@@ -49,4 +60,24 @@ h1{
 .foto{
     color: black;
     font-size: 15px;
+}
+
+.dim-char{
+    font-size: 25px;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
+
+#lista{
+    margin-left: -10px;
+}
+
+.dim-celle{
+    width: 300px;
+}
+
+.back-celeste{
+    background-color: rgb(50,215,235);
 }
