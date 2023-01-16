@@ -32,13 +32,13 @@ table{
 }
 
 #data{
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .grigio{
     color: gray;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .azzurro{
@@ -80,4 +80,26 @@ table{
 
 .back-celeste{
     background-color: rgb(50,215,235);
+}
+
+#adv1{
+    color: white;
+    font-size: 25px;
+    width: 312px;
+    height: 208px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#adv2{
+    color: white;
+    font-size: 25px;
+    width: 312px;
+    height: 208px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
